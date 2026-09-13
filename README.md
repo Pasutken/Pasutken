@@ -9,12 +9,9 @@
 
 <br>
 
-<a href="https://pasutken.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-444444?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-<a href="https://github.com/Pasutken">
-  <img src="https://img.shields.io/badge/GITHUB-444444?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<a href="https://pasutken.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-444444?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+&nbsp;&nbsp;
+<a href="https://github.com/Pasutken"><img src="https://img.shields.io/badge/GITHUB-444444?style=for-the-badge&logo=github&logoColor=white"></a>
 
 </div>
 
@@ -76,21 +73,12 @@
 </p>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/pasut-fakchaeng-bb1809429/">
-  <img src="https://img.shields.io/badge/LINKEDIN-444444?style=flat-square&logo=linkedin&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/pasut-fakchaeng-bb1809429/">
-  <img src="https://img.shields.io/badge/PASUT%20FAKCHAENG-1877F2?style=flat-square&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:pasutken73@email.com">
-  <img src="https://img.shields.io/badge/GMAIL-444444?style=flat-square&logo=gmail&logoColor=white">
-</a>
-<a href="mailto:pasutken73@email.com">
-  <img src="https://img.shields.io/badge/PASUTKEN73%40EMAIL.COM-EA4335?style=flat-square&logo=gmail&logoColor=white">
-</a>
-
+<a href="mailto:pasutken73@email.com"><img src="https://img.shields.io/badge/GMAIL-444444?style=flat-square&logo=gmail&logoColor=white"></a><a href="mailto:pasutken73@email.com"><img src="https://img.shields.io/badge/PASUTKEN73%40EMAIL.COM-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+&nbsp;&nbsp;
+<a href="https://[www.facebook.com/Pasutken](https://www.facebook.com/pasut.fakchaeng?locale=th_TH)"><img src="https://img.shields.io/badge/FACEBOOK-444444?style=flat-square&logo=facebook&logoColor=white"></a><a href="https://www.facebook.com/Pasutken"><img src="https://img.shields.io/badge/PASUT%20FAKCHAENG-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
+&nbsp;&nbsp;  
+<a href="mailto:pasutken73@email.com"><img src="https://img.shields.io/badge/GMAIL-444444?style=flat-square&logo=gmail&logoColor=white"></a><a href="mailto:pasutken73@email.com"><img src="https://img.shields.io/badge/PASUTKEN73%40EMAIL.COM-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+                                                                                                                                                                                    
 </p>
 
 <p align="center">
